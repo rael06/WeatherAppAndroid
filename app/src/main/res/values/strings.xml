@@ -1,0 +1,5 @@
+<resources>
+	<string name="app_name">My Application</string>
+	<string name="tvCity">Type a city</string>
+	<string name="bSearch">Search</string>
+</resources>

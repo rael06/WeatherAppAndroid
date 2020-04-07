@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	<string name="app_name">Application de climat</string>
+	<string name="tvCity">Indiquez une ville</string>
+	<string name="bSearch">Search</string>
+</resources>
